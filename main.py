@@ -40,8 +40,6 @@ def processCommand(c):
 
 if __name__=="__main__":
     speak("Initializing Jarvis...")
- 
-    #Listen for the wake word 'Jarvis'
 
     # obtain audio from the microphone
     while True:
