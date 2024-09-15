@@ -18,7 +18,8 @@ It harnesses the power of Python programming and various libraries to create a v
 #### Python: Core programming language for development.
 #### Speech Recognition Libraries: speech_recognition for voice input.
 #### Text-to-Speech (TTS) Libraries: Provides audible responses using libraries like pyttsx3 or gTTS.
-#### APIs and Web Services: ##### WolframAlpha: For performing calculations and answering complex queries.
-                            ##### Wikipedia: For retrieving information from Wikipedia.
-                            ##### Google Search: For performing web searches.
-                            ##### YouTube: For searching and playing videos.
+#### APIs and Web Services : 
+##### WolframAlpha: For performing calculations and answering complex queries.
+##### Wikipedia: For retrieving information from Wikipedia.
+##### Google Search: For performing web searches.
+##### YouTube: For searching and playing videos.
