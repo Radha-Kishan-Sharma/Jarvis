@@ -26,6 +26,18 @@ It harnesses the power of Python programming and various libraries to create a v
 
 ## Installation
 #### 1. Clone the Repository:
-                           git clone https://github.com/yourusername/your-repo-name.git
+                          git clone https://github.com/yourusername/your-repo-name.git
                           cd your-repo-name
+                          
+#### 2. Create a virtual environment:
+                          python -m venv venv
+                          source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+#### 3. Install the required packages: 
+                          pip install -r requirements.txt
+
+#### 4. Set up environment variables:
+  ###### Create a .env file in the root directory of the project and add the following:
+                           USER=YourName
+                           BOT=Jarvis
 
