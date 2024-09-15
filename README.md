@@ -23,3 +23,9 @@ It harnesses the power of Python programming and various libraries to create a v
 ##### Wikipedia: For retrieving information from Wikipedia.
 ##### Google Search: For performing web searches.
 ##### YouTube: For searching and playing videos.
+
+## Installation
+#### 1. Clone the Repository:
+                           git clone https://github.com/yourusername/your-repo-name.git
+                          cd your-repo-name
+
